@@ -1,4 +1,4 @@
 # Certificates
 "Aakarhsit Srivastava is a dedicated professional known for their expertise and commitment to excellence. With a proven track record of AI expertiseand Cloud Solutions,he consistently delivers exceptional results. Aakarshit is driven by a passion for Machine Learning and Research Developments, and he continually strive to exceed expectations and inspire others. With a focus on integrity, innovation, and collaboration, Aakarshit Srivastava is a valuable asset to any team or organization."
 
-![gid](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F19193172-Certificate-Verification-Animation%2Fattachments%2F14348697%3Fmode%3Dmedia&psig=AOvVaw3DdMaRartTnt8L9Vf87dRb&ust=1711273977221000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCOlb-OioUDFQAAAAAdAAAAABAa)
+![](https://github.com/ArkS0001/Certifications/blob/main/giphy.gif)
