@@ -1,0 +1,10 @@
+https://SPTOMOALVJR3XLF7.anvil.app/VVQ2T7OABG2X27THZVLOE2JN
+^^^Link of landing page
+
+the anvil web application manages the data 
+https://drive.google.com/file/d/1bvVXXWHIK23SVmIgIJmZe0uiG0TIU78T/view?usp=sharing
+the data will be stored in tabular form and can be exported in a csv format
+
+the server function needs little working that is the front end needs more work 
+the jupyter code works well with greetings to telling time and weather with error messages 
+the trained model is used of microsoft with voice recogniser of google
